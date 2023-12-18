@@ -1,0 +1,12 @@
+{
+    "warehouse": "bigquery",
+    "defaultSchema": "dataform",
+    "assertionSchema": "dataform_assertions",
+    "defaultDatabase": "kuldip-sandbox",
+    "useRunCache": false,
+    "defaultLocation": "australia-southeast1",
+    "vars": {
+        "table_ref": "gcp_billing_export",
+        "dataset_name": "billing_reports"
+      }
+}

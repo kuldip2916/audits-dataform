@@ -1,0 +1,6 @@
+config {
+    type: "declaration",
+    database: "kuldip-sandbox",
+    schema: "billing_reports",
+    name: "gcp_billing_export"
+}
